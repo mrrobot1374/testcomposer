@@ -12,6 +12,8 @@ $teacher = new teacher();
 
 $teacherCo = new TeacherController();
 
+
+
 var_dump($teacherCo);
 //$client = new \GuzzleHttp\Client();
 //$response = $client->request('GET', 'https://jsonplaceholder.typicode.com/posts/1/comments');
